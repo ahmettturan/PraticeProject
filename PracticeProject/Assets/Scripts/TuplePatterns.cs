@@ -6,8 +6,8 @@ public class TuplePatterns : MonoBehaviour
     
  void Start()
     {
-        string deger1 = "makas";
-        string deger2 = "tas";
+      /*  string deger1 = "makas";
+        string deger2 = "tas"; */
 
         #region
         /*
